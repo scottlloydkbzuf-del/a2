@@ -1,0 +1,43 @@
+{
+  "domain": "herringbonefit.com",
+  "directory": "herringbonefit",
+  "niche": "Fashion",
+  "theme": "Bespoke Savile Row Tailoring",
+  "institutional_contact": {
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "phone": "+1-888-777-5845",
+    "google_analytics": "G-0LY0HY7L01"
+  },
+  "pages": {
+    "core": [
+      "index.html",
+      "about.html",
+      "services.html",
+      "contact.html",
+      "faq.html",
+      "blog.html"
+    ],
+    "policies": [
+      "privacy-policy.html",
+      "terms-and-conditions.html",
+      "disclaimer.html",
+      "cookie-policy.html"
+    ],
+    "blogs": [
+      "blog/blog-1.html",
+      "blog/blog-2.html",
+      "blog/blog-3.html"
+    ]
+  },
+  "assets": {
+    "css": "assets/css/style.css",
+    "js": [
+      "assets/js/main.js",
+      "assets/js/script.js"
+    ],
+    "images_count": 20,
+    "images_all_over_20kb": true
+  },
+  "blog_count": 3,
+  "qa_audit_status": "PASSED"
+}
